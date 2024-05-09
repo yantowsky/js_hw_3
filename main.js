@@ -22,7 +22,7 @@ console.log(`typeof null: ${typeof null}`);
 console.log(`typeof Math: ${typeof Math}`);
 console.log(`typeof {a: 1}: ${typeof { a: 1 }}`);
 console.log(`typeof Symbol(): ${typeof Symbol()}`);
-console.log("=============================================")
+console.log("=============================================");
 
 //HomeWork_3.2
 let firstWord = prompt("Enter first word:");
