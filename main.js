@@ -1,11 +1,5 @@
 //HomeWork_3.1
-console.log("Home Work 3.1:")
-console.log(`typeof firstNumber: ${typeof firstNumber}`);
-console.log(`typeof ba_ck: ${typeof ba_ck}`);
-console.log(`typeof signFor: ${typeof signFor}`);
-console.log(`typeof number: ${typeof number}`);
-console.log(`typeof boolean: ${typeof boolean}`);
-console.log(`typeof document: ${typeof document}`);
+console.log("Home Work 3.1:");
 console.log(`typeof undefined: ${typeof undefined}`);
 console.log(`typeof 1: ${typeof 1}`);
 console.log(`typeof NaN: ${typeof NaN}`);
