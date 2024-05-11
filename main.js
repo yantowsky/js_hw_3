@@ -4,8 +4,8 @@ console.log(`typeof undefined: ${typeof undefined}`);
 console.log(`typeof 1: ${typeof 1}`);
 console.log(`typeof NaN: ${typeof NaN}`);
 console.log(`typeof Infinity: ${typeof Infinity}`);
-console.log(`typeof "1": ${typeof "1"}`);
 console.log(`typeof +"1": ${typeof +"1"}`);
+console.log(`typeof "1": ${typeof "1"}`);
 console.log(`typeof typeof 1: ${typeof typeof 1}`);
 console.log(`typeof true: ${typeof true}`);
 console.log(`typeof function(){}: ${typeof function () { }}`);
@@ -23,9 +23,7 @@ let firstWord = prompt("Enter first word:");
 let secondWord = prompt("Enter second word:");
 let thirdWord = prompt("Enter third word:");
 
-let allWords = [thirdWord, firstWord, secondWord].join(' ');
-
-console.log(`Home Work 3.2: ${allWords}`);
+console.log(`Home Work 3.2: ${thirdWord} ${firstWord} ${secondWord}`);
 console.log("=============================================");
 
 // HomeWork_3.3
